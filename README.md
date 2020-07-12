@@ -11,7 +11,7 @@
     Estudando: Webflux e Cloud Computing
                                             
                                                                                                                                                                                                             
-    [Medium](https://medium.com/@danielchristofolli/)
+    [Medium](https://medium.com/@danielchristofolli/)(https://image.flaticon.com/icons/svg/174/174857.svg)
     [Linkedin](https://www.linkedin.com/in/daniel-christofolli-069071160/)
     
 <!--
