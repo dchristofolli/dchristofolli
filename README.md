@@ -11,8 +11,8 @@
     Estudando: Webflux e Cloud Computing
                                             
                                                                                                                                                                                                             
-    [Medium](https://medium.com/@danielchristofolli/)(https://image.flaticon.com/icons/svg/174/174857.svg)
-    [Linkedin](https://www.linkedin.com/in/daniel-christofolli-069071160/)
+    [![github](https://medium.com/@danielchristofolli/)[1]
+    [![linkedin](https://www.linkedin.com/in/daniel-christofolli-069071160/)[2]
     
 <!--
 **dchristofolli/dchristofolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
