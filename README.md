@@ -8,7 +8,8 @@
 
 - 🔭 Java Developer at South System
 
-- 🔭 I’m currently working with
+
+- 🔭 I’m currently working with:
   - Java
   - Microservices
   - Gradle
