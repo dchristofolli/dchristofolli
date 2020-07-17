@@ -4,7 +4,7 @@
 
 # Daniel Christofolli
 
-## Hi 👋, I'm Daniel Christofolli, a backend developer desperate for professional growth :D
+## Hi 👋, I'm Daniel Christofolli,<br>a software developer desperate for professional growth :D
 
 - 🔭 Java Developer at South System
 
