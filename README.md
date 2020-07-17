@@ -1,30 +1,21 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Daniel%20Christofolli-blue?style=flat-square)](https://www.linkedin.com/in/daniel-christofolli-069071160/)
+[![Medium Badge](https://img.shields.io/badge/Medium-Daniel%20Christofolli-red?style=flat-square)](https://medium.com/@danielchristofolli)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Daniel%20Christofolli-red?style=flat-square)](mailto:danielchristofolli@gmail.com)
 
-- 🔭 Desenvolvedor Java na South System
-                                                                                                   
-                                                                                                                                                                                                           
-    
-    Conhecimentos:
-    Java 8 e 11, JUnit, Gradle, Spring, Kafka, APIs, REST, SQL, noSQL
-    
-    
-    Estudando: Webflux e Cloud Computing
-                                            
-                                                                                                                                                                                                            
-    [Medium](https://medium.com/@danielchristofolli/)
-    [Linkedin](https://www.linkedin.com/in/daniel-christofolli-069071160/)
-    
-<!--
-**dchristofolli/dchristofolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Daniel Christofolli
 
-Here are some ideas to get you started:
+## Hi 👋, I'm Daniel Christofolli, a backend developer desperate for professional growth :D
 
+- 🔭 Java Developer at South System
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working with
+  - Java
+  - Microservices
+  - Gradle
+  - Junit
+  - Spring Web and Reactive
+  - Apache Kafka
+  - Cloud Computing
+  - MongoDB and Oracle
+  
+- 🌱 Learning Spring Webflux and Amazon Web Services (AWS)
