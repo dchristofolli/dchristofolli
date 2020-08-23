@@ -4,7 +4,7 @@
 
 # Daniel Christofolli
 
-## Hi 👋, I'm Daniel Christofolli,<br>a software developer desperate for professional growth :D
+## Hi 👋, I'm Daniel Christofolli,<br>a software developer under construction =D
 
 - 🔭 Java Developer at South System
 
@@ -19,4 +19,4 @@
   - Cloud Computing
   - MongoDB and Oracle
   
-- 🌱 Learning Spring Webflux and Amazon Web Services (AWS)
+- 🌱 Learning ReactJS
