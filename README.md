@@ -19,4 +19,4 @@
   - Cloud Computing
   - MongoDB and Oracle
   
-- 🌱 Learning ReactJS
+- 🌱 Learning ReactJS and RabbitMQ
