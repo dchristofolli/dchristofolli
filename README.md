@@ -16,7 +16,9 @@
   - Junit
   - Spring Web and Reactive
   - Apache Kafka
-  - Cloud Computing
+  - RabbitMQ
+  - ZeroMQ
+  - AWS
   - MongoDB and Oracle
   
 - 🌱 Learning ReactJS and RabbitMQ
