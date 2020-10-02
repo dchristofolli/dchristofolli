@@ -15,6 +15,7 @@
   - Gradle
   - Junit
   - Spring Web and Reactive
+  - Docker
   - Apache Kafka
   - RabbitMQ
   - ZeroMQ
