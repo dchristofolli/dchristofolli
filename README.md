@@ -4,9 +4,9 @@
 
 # Daniel Christofolli
 
-## Hi 👋, I'm Daniel Christofolli,<br>a software developer under construction =D
+## Hi 👋, I'm Daniel Christofolli,<br>a software developer
 
-- 🔭 Java Developer at South System
+- 🔭 Java Developer at PUC-RS
 
 
 - 🔭 I’m currently working with:
@@ -22,4 +22,4 @@
   - AWS
   - MongoDB and Oracle
   
-- 🌱 Learning ReactJS and RabbitMQ
+- 🌱 Learning Angular
