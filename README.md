@@ -6,7 +6,7 @@
 
 ## Hi 👋, I'm Daniel Christofolli,<br>a software developer
 
-- 🔭 Java Developer at PUC-RS
+- 🔭 Java Developer at Ília
 
 
 - 🔭 I’m currently working with:
