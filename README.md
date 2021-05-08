@@ -22,4 +22,4 @@
   - AWS
   - MongoDB and Oracle
   
-- 🌱 Learning Angular
+- 🌱 Learning Rust
