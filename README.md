@@ -5,7 +5,7 @@
 
 ## Hi 👋, I'm Daniel Christofolli,<br>a software developer
 
-- 🔭 Java Developer at Ília
+- 🔭 Software Developer III at Ília
 
 
 - 🔭 I’m currently working with:
