@@ -5,7 +5,7 @@
 
 ## Hi 👋, I'm Daniel Christofolli,<br>a software developer
 
-- 🔭 Software Developer III at Ília
+- 🔭 Senior Software Developer at DB | Sicredi
 
 
 - 🔭 I’m currently working with:
